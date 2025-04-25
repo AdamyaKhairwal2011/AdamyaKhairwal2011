@@ -40,8 +40,8 @@ npm install astra-ai
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adamyakhairwal2011&show_icons=true&theme=tokyonight" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamyakhairwal2011&layout=compact&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adamyakhairwal2011&show_icons=true&theme=tokyonight" width="45%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamyakhairwal2011&layout=compact&theme=tokyonight" width="45%" height="200px" style="margin-left:10%;"/>
 </p>
 
 ---
